@@ -1,0 +1,6 @@
+JAVA_HOME=/usr/java/jdk1.8.0_211
+JAVA_BIN=/usr/java/jdk1.8.0_211/bin
+JRE_HOME=/usr/java/jdk1.8.0_211/jre
+PATH=$PATH:/usr/java/jdk1.8.0_211/bin:/usr/java/jdk1.8.0_211/jre/bin
+CLASSPATH=/usr/java/jdk1.8.0_211/jre/lib:/usr/java/jdk1.8.0_211/lib:/usr/java/jdk1.8.0_211/jre/lib/charsets.jar
+export JAVA_HOME JAVA_BIN JRE_HOME PATH CLASSPATH
